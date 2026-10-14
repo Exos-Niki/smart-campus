@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Campus: Infrastructure and Lost-and-Found
 
 Full-stack version: an Express REST API with a SQLite database, serving the single-page frontend from `public/`.
@@ -73,3 +74,6 @@ data/            campus.db and uploaded photos (created at runtime, git-ignored)
 - Serve it behind HTTPS (a reverse proxy such as Nginx or Caddy, or a host that provides it).
 - Back up `data/` regularly; it holds the database and the photos.
 - Password reset emails are not built in. Admins issue temporary passwords from the Users page.
+=======
+# smart-campus
+>>>>>>> 98743c99b6c69a0cc12a1b30b525ba348e0a51ea
